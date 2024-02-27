@@ -4,7 +4,7 @@ const guideText = `Panduan Penggunaan Bot Telegram📚
 ---
     !halo cek profile kamu
     !hadits-today memunculkan random hadist
-    !hadists-list memnunculkan list daftar buku hadist
+    !hadits-list memnunculkan list daftar buku hadist
 ---
 
 👉Command with parameter
